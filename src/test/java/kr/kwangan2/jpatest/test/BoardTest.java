@@ -21,10 +21,12 @@ public class BoardTest {
 	private BoardRepository boardRepo;
 	
 	// @Test
+	/*
 	public void testInsertBoard() {
 		Board board = new Board("제목", "작성자", "내용", new Date(), 0L);
 		boardRepo.save(board);
 	}
+	*/
 	
 	// @Test
 	public void testGetBoard() {

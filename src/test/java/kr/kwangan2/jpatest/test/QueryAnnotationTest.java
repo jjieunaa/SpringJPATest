@@ -23,6 +23,7 @@ public class QueryAnnotationTest {
 	@Autowired
 	private BoardRepository boardRepo;
 	
+	/*
 	// @Test
 	public void testQueryAnnotationTest1() {
 		List<Board> boardList = boardRepo.queryAnnotationTest1("제목10");
@@ -69,5 +70,6 @@ public class QueryAnnotationTest {
 			log.info(board);
 		}
 	}
+	*/
 
 }

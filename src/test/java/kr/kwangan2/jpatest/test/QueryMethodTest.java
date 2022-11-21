@@ -26,6 +26,7 @@ public class QueryMethodTest {
 	private BoardRepository boardRepo;
 	
 	// @Test
+	/*
 	public void testFindByTitle() {
 		for (int i=1; i<=200; i++) {
 			Board board = new Board("제목"+i, "작성자"+i, "내용"+i, new Date(), 0L);
@@ -83,5 +84,6 @@ public class QueryMethodTest {
 			log.info(board);
 		}
 	}
+	*/
 
 }
